@@ -1,4 +1,5 @@
-# Lista de comando 
+# Lista de comandos
+
 Configuração inicial do ambiente de desenvolvimento PHP.
 Estes comando foram validados na distro Ubuntu 14.04 LTS
 
@@ -9,10 +10,13 @@ sudo apt-get install nginx
 ```
 
 #### Instalar MySQL Server
+
 ```sh
 sudo apt-get install mysql-server
 ```
+
 > comando de segurança para mysql
+
 ```sh
 sudo mysql_secure_installation
 ```
